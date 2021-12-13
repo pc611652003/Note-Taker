@@ -4,7 +4,7 @@
 
 GitHub repository : https://github.com/pc611652003/Note-Taker
 
-Application : https://watch.screencastify.com/v/V4qUXbPNTaO1Eud6akdk
+Application : https://thawing-depths-69202.herokuapp.com/notes
 
 Once user open the Note Taker, user will land on a page with a link to notes page.
 ![Index](screenshot/index "Application start at Index page")
